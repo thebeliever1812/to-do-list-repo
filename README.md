@@ -26,8 +26,7 @@ To-Do List/
 │-- index.html          # Main HTML file
 │-- style.css           # Stylesheet for UI design
 │-- script.js           # JavaScript for app functionality
-│-- images/             # Contains images like todo_icon.png & check.png
-│-- screenshots/        # Folder containing screenshots
+│-- images/             # Contains images like todo_icon.png, check.png, and screenshots
 │-- README.md           # Project documentation (this file)
 ```
 
